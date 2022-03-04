@@ -4,3 +4,4 @@
 | Day | Content |
 |-----|---------|
 | 1.  | https://github.com/nurcinozer/worklogs/blob/main/Day01.md        |
+| 2.  | https://github.com/nurcinozer/worklogs/blob/main/Day02.md        |
