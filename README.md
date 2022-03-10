@@ -9,3 +9,4 @@
 | 4.  | https://github.com/nurcinozer/worklogs/blob/main/Day04.md        |
 | 5.  | https://github.com/nurcinozer/worklogs/blob/main/Day05.md        |
 | 6.  | https://github.com/nurcinozer/worklogs/blob/main/Day06.md        |
+| 7.  | https://github.com/nurcinozer/worklogs/blob/main/Day07.md        |
